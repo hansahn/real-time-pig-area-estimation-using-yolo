@@ -1,4 +1,4 @@
-# real-time-pig-area-estimation-using-yolo
+# real-time-pig-size-computation-using-pipeline-processing-with-image-and-deep-learning-techniques
 
 use code with https://github.com/AlexeyAB/darknet
 
